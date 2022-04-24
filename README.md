@@ -42,7 +42,7 @@ Thus, we built this image classification model that classifies Chest X-Ray image
 
 ## Conclusion
 Lung X-rays are visibly different from their clarity, which increases from normal, viral to COVID-19. Thus, we should be able to classify them to a relatively high accuracy. <br>
-Our CNN model achieved an accuracy of 88%, while our transfer learning model achieved an accuracy of 91%. <br>
+Our CNN model achieved an accuracy of 84.8%, while our transfer learning model achieved an accuracy of 93.5%. <br>
 Thus, we can conclude that the transfer learning model is more accurate.
 
 ## What did we learn from this project?
