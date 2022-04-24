@@ -73,7 +73,7 @@ In the future, we could improve our classifier by:
 <ul>
   <li> Improving the dataset </li>
     <ul>
-      <li> Image Augmmentation though Genetic Algorithm or Keras ImageDataGenerator </li>
+      <li> Image Augmentation though Genetic Algorithm or Keras ImageDataGenerator </li>
       <li> Adopt oversampling </li>
       <li> Adding on more X-Ray images from other sources to classes with less data </li>
     </ul>
