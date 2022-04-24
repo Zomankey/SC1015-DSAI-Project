@@ -1,16 +1,12 @@
 # Detection of Covid-19 Pneumonia via Chest X-Rays
 
-## Files
-<ul> 
-  <li> Full Notebook - [Multi_Class_COVID_Classification_Model_.ipynb](https://github.com/karthikstar/SC1015-Project/blob/main/Multi_Class_COVID_Classification_Model_.ipynb) </li>
-  <ul> 
-    <li> This is our main project code containing the exploratory data analysis and models </li> 
-  </ul>
-  <li> Sample Model Walkthrough - [SampleModelWalkthrough.ipynb](https://github.com/karthikstar/SC1015-Project/blob/main/SampleModelWalkthrough.ipynb) </li>
-  <ul>
-    <li> This is just a simple walkthrough to demonstrate how our model can predict chest xray images, based on the 3 classes - COVID, Viral Pneumonia, and Normal. For a more detailed explanation, please check out our comprehensive notebook Multi_Class_COVID_ClassificationModel.ipynb on our GitHub Repository. </li>
-  </ul>
-</ul>
+## Repository Contents
+1. Full Notebook - [Multi_Class_COVID_Classification_Model_.ipynb](https://github.com/karthikstar/SC1015Project/blob/main/Multi_Class_COVID_Classification_Model_.ipynb) <br>
+  This is our main project code containing the exploratory data analysis and models
+
+2. Sample Model Walkthrough - [SampleModelWalkthrough.ipynb](https://github.com/karthikstar/SC1015-Project/blob/main/SampleModelWalkthrough.ipynb)<br>
+  This is just a simple walkthrough to demonstrate how our model can predict chest xray images, based on the 3 classes - COVID, Viral Pneumonia, and Normal. For a more detailed explanation, please check out our Full Notebook in our GitHub repository.
+
 
 ## How to run the file
 If you intend to re-run and execute the model, please do the following:
