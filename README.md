@@ -25,17 +25,17 @@ If you intend to simply check out our model and visualise how it predicts the cl
 
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Lung X-Rays from the COVID-19 Radiography Database.
+ 
+## Motivation
+As COVID-19 becomes endemic, the strain on healthcare services worldwide intensifies, making it more difficult to manage & detect the serious complications of COVID-19. <br>
+
+Thus, we built this image classification model that classifies Chest X-Ray images into 3 classes (normal, viral pneumonia and COVID-induced pneumonia) to replace the current, manual way of diagnosing pneumonia which is unnecessarily exhausting limited resources and time-consuming yet may not be highly effective due to the presence of inevitable human errors.
 
 ## Problem Definition
 <ul> 
   <li> Are we able to predict if someone has Viral or COVID-19 pneumonia based on their Chest X-Ray? </li>
   <li> Which model would be best to predict it? </li>
 </ul>
- 
-## Motivation
-As COVID-19 becomes endemic, the strain on healthcare services worldwide intensifies, making it more difficult to manage & detect the serious complications of COVID-19. <br>
-
-Thus, we built this image classification model that classifies Chest X-Ray images into 3 classes (normal, viral pneumonia and COVID-induced pneumonia) to replace the current, manual way of diagnosing pneumonia which is unnecessarily exhausting limited resources and time-consuming yet may not be highly effective due to the presence of inevitable human errors.
 
 ## Exploratory Data Analysis
 <ol> 
