@@ -1,7 +1,7 @@
 # Detection of Covid-19 Pneumonia via Chest X-Rays
 
 ## Repository Contents
-1.[Multi_Class_COVID_Classification_Model_.ipynb](https://github.com/karthikstar/SC1015-Project/blob/main/Multi_Class_COVID_Classification_Model_.ipynb). 
+1.[Multi_Class_COVID_Classification_Model_.ipynb](https://github.com/karthikstar/SC1015-Project/blob/main/Multi_Class_COVID_Classification_Model_.ipynb).<br> 
 2.[SampleModelWalkthrough.ipynb](https://github.com/karthikstar/SC1015-Project/blob/main/SampleModelWalkthrough.ipynb)
 
 ## How to run the file
