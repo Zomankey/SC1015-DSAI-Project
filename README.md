@@ -7,6 +7,7 @@
 2. Sample Model Walkthrough - [SampleModelWalkthrough.ipynb](https://github.com/karthikstar/SC1015-Project/blob/main/SampleModelWalkthrough.ipynb)<br>
   This is just a simple walkthrough to demonstrate how our model can predict chest X-ray images, based on the 3 classes - COVID, Viral Pneumonia, and Normal. For a more detailed explanation, please check out our Full Notebook in our GitHub repository.
 
+3. Project Slides - [SC1015 Slides.pdf](
 
 ## How to run the file
 If you intend to re-run and execute the model, please do the following:
