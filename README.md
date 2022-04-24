@@ -1,7 +1,5 @@
 # Detection of Covid-19 Pneumonia via Chest X-Rays
 
-![Alt Text](https://upload.wikimedia.org/wikipedia/commons/7/72/Projectional_rendering_of_CT_scan_of_thorax_%28thumbnail%29.gif)
-
 ## How to run the file
 If you intend to re-run and execute the entire file, please do the following:
 <ul> 
@@ -32,8 +30,8 @@ Thus, we built this image classification model that classifies Chest X-Ray image
   <ul>
     <li> Contrast between Average Images of each Class </li>
     <li> Eigenimages from Principal Component Analysis </li>
+    <li> Image Value Distribution </li>
   </ul>
-  <li> Image Value Distribution </li>
 </ol>
 
 ## Models Used
@@ -42,9 +40,9 @@ Thus, we built this image classification model that classifies Chest X-Ray image
   <li> Transfer Learning — Inception V3 </li>
 </ol>
 
-## Conclusion (need more editing)
-Clarity of lung X-Rays increase from normal, viral to COVID-19. Thus, we should be able to classify them to a relatively high accuracy. <br>
-Our CNN model achieved an accuracy of , while our transfer learning model achieved an accuracy of . <br>
+## Conclusion
+Lung X-rays are visibly different from their clarity, which increases from normal, viral to COVID-19. Thus, we should be able to classify them to a relatively high accuracy. <br>
+Our CNN model achieved an accuracy of 88%, while our transfer learning model achieved an accuracy of 91%. <br>
 Thus, we can conclude that the transfer learning model is more accurate.
 
 ## What did we learn from this project?
