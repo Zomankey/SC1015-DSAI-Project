@@ -107,7 +107,7 @@ In the future, we could improve our classifier by:
 BCF1
 > Elangovan Karthikeyan [@karthikstar](https://github.com/karthikstar) — Machine Learning Models <br>
 > Lam Wei Lin, Zoey [@ZoeyNTU](https://github.com/ZoeyNTU) — Exploratory Data Analysis <br>
-> Lee Pei Yee — Data Preparation
+> Lee Pei Yee [@heypeiyee](https://github.com/heypeiyee)— Data Preparation
 
 ## References
 <ul>
