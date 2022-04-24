@@ -1,18 +1,31 @@
 # Detection of Covid-19 Pneumonia via Chest X-Rays
 
-## Repository Contents
-1. Full Notebook - [Multi_Class_COVID_Classification_Model_.ipynb](https://github.com/karthikstar/SC1015-Project/blob/main/Multi_Class_COVID_Classification_Model_.ipynb).<br> 
-2. Model Walkthrough - [SampleModelWalkthrough.ipynb](https://github.com/karthikstar/SC1015-Project/blob/main/SampleModelWalkthrough.ipynb)
+## Files
+<ul> 
+  <li> [Multi_Class_COVID_Classification_Model_.ipynb](https://github.com/karthikstar/SC1015-Project/blob/main/Multi_Class_COVID_Classification_Model_.ipynb) </li>
+  <ul> 
+    <li> This is our main project code containing the exploratory data analysis and models </li> 
+  </ul>
+  <li> [SampleModelWalkthrough.ipynb](https://github.com/karthikstar/SC1015-Project/blob/main/SampleModelWalkthrough.ipynb) </li>
+  <ul>
+    <li> This is just a simple walkthrough to demonstrate how our model can predict chest xray images, based on the 3 classes - COVID, Viral Pneumonia, and Normal. For a more detailed explanation, please check out our comprehensive notebook Multi_Class_COVID_ClassificationModel.ipynb on our GitHub Repository. </li>
+  </ul>
+</ul>
 
 ## How to run the file
-If you intend to re-run and execute the entire file, please do the following:
+If you intend to re-run and execute the model, please do the following:
 <ul> 
-  <li> Open the file in Google Colaboratory https://research.google.com/colaboratory/ </li>
+  <li> Open the <b> Multi_Class_COVID_Classification_Model_.ipynb </b> file in Google Colaboratory https://research.google.com/colaboratory/ </li>
   <li> Upload the kaggle.json file when prompted for it at the start:  </li>
   <ul> 
     <li> To use the Kaggle API, sign up for a Kaggle account at https://www.kaggle.com. Then go to the 'Account' tab of your user profile (https://www.kaggle.com/<username>/account) and select 'Create API Token'. This will trigger the download of kaggle.json, a file containing your API credentials. </li>
   </ul>
 </ul>
+
+If you intend to simply check out our model and visualise how it predicts the classes of the chest x ray images, please do the following:
+<li> Open the <b> SampleModelWalkthrough.ipynb </b> file in Google Colaboratory https://research.google.com/colaboratory/ </li>
+
+Open the file in Google Colaboratory https://research.google.com/colaboratory/
 
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Lung X-Rays from the COVID-19 Radiography Database.
@@ -95,8 +108,8 @@ In the future, we could improve our classifier by:
      
 ## Contributors
 BCF 1
-> Elangovan Karthikeyan @karthikstar — Machine Learning Models <br>
-> Lam Wei Lin, Zoey @ZoeyNTU — Exploratory Data Analysis <br>
+> Elangovan Karthikeyan [@karthikstar](https://github.com/karthikstar) — Machine Learning Models <br>
+> Lam Wei Lin, Zoey [@ZoeyNTU](https://github.com/ZoeyNTU) — Exploratory Data Analysis <br>
 > Lee Pei Yee — Data Preparation
 
 ## References
